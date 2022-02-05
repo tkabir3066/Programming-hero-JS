@@ -10,7 +10,7 @@ console.log(typeof isRaining); //boolean
 
            /*
             //    DATA-TYPE
-
+  
             // Primitive Data Type
             1.Number
             2.String
